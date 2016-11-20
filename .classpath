@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/stanford-corenlp-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/stanford-corenlp-3.6.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/snowball-stemmer-1.3.0.581.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/cpdetector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/lucene-snowball-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/hibernate-core-4.3.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/hibernate-entitymanager-4.3.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/hibernate-commons-annotations-4.0.5.Final (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/jboss-logging-3.1.0.CR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/junit-4.12.jar" sourcepath="C:/Repository/junit/junit/4.12/junit-4.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onofr/Desktop/workspace/Twitter-Sentiment-Analysis/libs/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
